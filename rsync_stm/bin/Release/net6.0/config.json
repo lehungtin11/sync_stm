@@ -1,0 +1,23 @@
+﻿{
+  "MySQL": {
+    "connectstr": "server=103.146.21.50;port=3306;uid=root;pwd=PPM4YsNBN@1o6PbxNhNeEy5;database=jwdb",
+    "maxPoolSize": 100
+
+  },
+  "RabbitMQ": {
+    "Hostname": [ "103.146.21.48" ],
+    "Port": 5672,
+    "username": "admin",
+    "password": "Infinity@2020",
+    "Queue_CRM": "STM_MTK",
+    "Queue_SEND": "STM_SEND"
+  },
+  "Minio": {
+    "endpoint": "google.com",
+    "accessKey": "google.com",
+    "secretKey": 5672,
+    "bucketName": "admin",
+    "key": "Infinity@2020",
+    "localPath": "STM_MTK"
+  }
+}

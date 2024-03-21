@@ -1,0 +1,230 @@
+﻿[
+  {
+    "name": "STM-check-core-bank-mode",
+    "id": "/core-service/api/esb/checkCoreBankMode",
+    "url": "/stm/v1/core-service/check-core-bank-mode",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-get-client-info",
+    "id": "/core-service/api/esb/getClientInfo",
+    "url": "/stm/v1/core-service/get-client-info",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-send-otp-by-sms",
+    "id": "/core-service/api/notify/sendOTPBySMS",
+    "url": "/stm/v1/core-service/api/notify/sendOTPBySMS",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-verify-otp-by-sms",
+    "id": "/core-service/api/notify/verifyOTPBySMS",
+    "url": "/stm/v1/core-service/notify/verify-otp-by-sms",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-juridical-save",
+    "id": "/kyc-service/api/juridical/save",
+    "url": "/stm/v1/kyc-service/juridical/save",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-juridical-update",
+    "id": "/kyc-service/api/juridical/update",
+    "url": "/stm/v1/kyc-service/juridical/update",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-ldz-verify-phone",
+    "id": "/core-service/api/landingzone/verify/phone",
+    "url": "/stm/v1/core-service/landingzone/verify/phone",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-verify-account",
+    "id": "/core-service/api/landingzone/verify/account",
+    "url": "/smt/v1/core-service/landingzone/verify/account",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-upload-image",
+    "id": "/kyc-service/api/v1/upload-image",
+    "url": "/stm/v1/kyc-service/upload-image",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-verify-card",
+    "id": "/kyc-service/api/v1/verify-card",
+    "url": "/stm/v1/kyc-service/verify-card",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-read-card",
+    "id": "/kyc-service/api/v1/read-card",
+    "url": "/stm/v1/kyc-service/read-card",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-verify-portrait",
+    "id": "/kyc-service/api/v1/verify-portrait",
+    "url": "/stm/v1/kyc-service/verify-portrait",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-face-matching",
+    "id": "/kyc-service/api/v1/face-matching",
+    "url": "/stm/v1/kyc-service/face-matching",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-callback",
+    "id": "/kyc-service/api/client/callBack",
+    "url": "/stm/v1/kyc-service/client/callback",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-get-list-secret",
+    "id": "/kyc-service/api/secret/getList",
+    "url": "/stm/v1/kyc-service/secret/get-list",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-save-rate",
+    "id": "/kyc-service/api/rate/save",
+    "url": "/stm/v1/kyc-service/rate/save",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-ldz-consent-get-customer",
+    "id": "/core-service/api/landingzone/consent/getCustomer",
+    "url": "/stm/v1/core-service/landingzone/consent/get-customer",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-ldz-check-surplus",
+    "id": "/core-service/api/landingzone/checkSurplus",
+    "url": "/stm/v1/core-service/landingzone/check-surplus",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "Card-service-get-atm-info",
+    "id": "/CardService/merchant-service/api/atm/info",
+    "url": "/card-service/v1/merchant-service/atm/info",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "STM-get-list-image",
+    "id": "/kyc-service/api/image/getLstImage",
+    "url": "/stm/v1/kyc-service/image/get-list-image",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-push-notify",
+    "id": "/kyc-service/push-notify",
+    "url": "/stm/v1/kyc-service/push-notify",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-session-info-save",
+    "id": "/kyc-service/sessionInfo/save",
+    "url": "/stm/v1/kyc-service/session-info/save",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-message-send",
+    "id": "/core-service/api/message/send",
+    "url": "/stm/v1/core-service/message/send",
+    "key": "brh1mTv7vlLFAgm9zaLdviW0NR2jrpvI"
+  },
+  {
+    "name": "STM-jupiter-get-ekyc-info",
+    "id": "/core-service/api/jupiter/getEkycInfo",
+    "url": "/stm/v1/core-service/jupiter/get-ekyc-info",
+    "key": ""
+  },
+  {
+    "name": "ATM-update-customer-info",
+    "id": "/stm-be/api/msb/v1/command/update/customer-info",
+    "url": "/atm/v1/command/update/customer-info",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "ATM-print-form",
+    "id": "/stm-be/api/msb/v1/command/print/form",
+    "url": "/atm/v1/command/print/form",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "ATM-send-result",
+    "id": "/stm-be/api/msb/v1/command/send/result",
+    "url": "/atm/v1/command/send/result",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "ATM-video-call-send-result",
+    "id": "/stm-be/api/msb/v1/command/video-call/send/result",
+    "url": "/atm/v1/command/video-call/send/result",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "3CX-customer-info",
+    "id": "/apiv2/stm/customer/info",
+    "url": "/3cx/v2/customer/info",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  },
+  {
+    "name": "STM-register-account",
+    "id": "/core-service/api/jupiter/registerAccount",
+    "url": "/stm/v1/core-service/jupiter/register-account",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-ekyc-upgrade",
+    "id": "/core-service/api/jupiter/ekyc/upgrade",
+    "url": "/stm/v1/core-service/jupiter/ekyc/upgrade",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-customer-change-info-request",
+    "id": "/core-service/api/jupiter/ekyc/customerChangeInfoRequest",
+    "url": "/stm/v1/core-service/jupiter/ekyc/customer-change-info-request",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-sned-print-form",
+    "id": "/core-service/api/message/send/print-form",
+    "url": "/stm/v1/core-service/message/send/print-form",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-update-ocr-info",
+    "id": "/core-service/api/message/send/update-ocr-info",
+    "url": "/stm/v1/core-service/message/send/update-ocr-info",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-video-call-send-result-core",
+    "id": "/core-service/api/msb/v1/command/video-call/send/result",
+    "url": "/stm/v1/core-service/command/video-call/send/result",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-send-result-core",
+    "id": "/core-service/api/message/send/result",
+    "url": "/stm/v1/core-service/message/send/result",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-get-list-item-by-code",
+    "id": "/kyc-service/api/catItem/getListItemByCode",
+    "url": "/stm/v1/kyc-service/get-list-item-by-code",
+    "key": "5a46eOwogsDxBsnA23BgjiVFDSx01sLE"
+  },
+  {
+    "name": "STM-upload-image-base-64",
+    "id": "/kyc-service/api/v1/minio/upload-imageBase64",
+    "url": "/stm/v1/kyc-service/minio/upload-image-base64",
+    "key": "8D88UnapCENx4x7sskZFKfDemiBEikoy"
+  }
+]

@@ -1,0 +1,75 @@
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.exe
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\config.json
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.deps.json
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.runtimeconfig.json
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.pdb
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\MySql.Data.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\MySQLConnection.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\Serilog.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.AssemblyReference.cache
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.AssemblyInfoInputs.cache
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.AssemblyInfo.cs
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.CoreCompileInputs.cache
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.CopyComplete
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\refint\rsync_stm.dll
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.pdb
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.genruntimeconfig.cache
+D:\source\final\core_omnichannel\service\rsync_stm\rsync_stm\obj\Debug\net6.0\ref\rsync_stm.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.exe
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\config.json
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.deps.json
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.runtimeconfig.json
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\rsync_stm.pdb
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\MySql.Data.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\MySQLConnection.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\Serilog.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.AssemblyReference.cache
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.AssemblyInfoInputs.cache
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.AssemblyInfo.cs
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.csproj.CopyComplete
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\refint\rsync_stm.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.pdb
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\rsync_stm.genruntimeconfig.cache
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\obj\Debug\net6.0\ref\rsync_stm.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\Google.Protobuf.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Text.Json.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\ZstdSharp.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\WorkSpace\WorkSpace\CRM MSB\crm2csd\rsync_stm\rsync_stm\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
